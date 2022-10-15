@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kelompok8</string>
+    <string name="nim">Nim</string>
+    <string name="nama_mhs">Nama Mahasiswa</string>
+    <string name="email">Email</string>
+    <string name="alamat">Alamat</string>
+</resources>
